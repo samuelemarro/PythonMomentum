@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>d0975688-c6f4-4cbc-81d9-75b494b673b5</TargetProject>
+    <FriendlyName>PythonMomentum</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Samuele\AppData\Local\Temp\PythonMomentum_20170731.vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Samuele\AppData\Local\Temp\PythonMomentum_20170731(1).vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Samuele\AppData\Local\Temp\PythonMomentum_20170801.vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Samuele\AppData\Local\Temp\PythonMomentum_20170801(1).vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
